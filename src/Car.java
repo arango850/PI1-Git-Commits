@@ -8,6 +8,7 @@ public class Car {
         this.cylinders = cylinders;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
     public boolean isWheels() {
@@ -31,4 +32,6 @@ public class Car {
         return "Wheels: " + wheels + "cylinders: " + cylinders + "\n";
     }
 >>>>>>> e92731b (add cars toString and print)
+=======
+>>>>>>> c2c96c2 (add car class)
 }
